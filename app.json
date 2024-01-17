@@ -7,11 +7,11 @@
     "env": {
         "API_ID": {
             "description": "Your APP ID From my.telegram.org ",
-            "value": ""
+            "value": "21848112"
         },
         "API_HASH": {
             "description": "Your API Hash From my.telegram.org ",
-            "value": ""
+            "value": "5c10af2ba368df270f4bcf988667f236"
         },
         "WEBHOOK": {
             "description": "if your server is need web service! value = True else value = False",
@@ -24,7 +24,7 @@
         },
         "BOT_TOKEN": {
             "description": "Your Bot Token From @BotFather",
-            "value": ""
+            "value": "6324257802:AAGCAtKLHS4N9H9NygFea2Iiw9oBaKYV0SQ"
         },
         "ADMIN": {
             "description":"Add Your User ID multiple is use space to split"
@@ -35,7 +35,7 @@
         },
         "DB_URL": {
             "description": "Your Mongo DB URL Obtained From mongodb.com",
-            "value": ""
+            "value": "mongodb+srv://mcpvrenamebot:mcpvrenamebot@cluster0.f4u2mgs.mongodb.net/?retryWrites=true&w=majority"
         },
         "DB_NAME":{ 
             "description":"Your Mongo DB Database Name ",
